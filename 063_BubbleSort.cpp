@@ -25,7 +25,9 @@ void input() {
 	cout << "====================" << endl;
 
 	for (int i = 0; i < n; i++) { // Looping dengan i dimulai dari 0 hingga n-1
-		cout 
+		cout << "Data ke-" << (i + 1) << ": "; // output dari layar 
+		cin >> arr(i);				// output dari pengguna
 
 	}
 }
+
