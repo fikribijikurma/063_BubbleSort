@@ -30,4 +30,7 @@ void input() {
 
 	}
 }
+void bubblesortArray() { //procedur untuk mengurutkan array dengan metode bubble sort
+	int
 
+}
