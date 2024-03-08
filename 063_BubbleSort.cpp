@@ -68,5 +68,12 @@ void display() {
 	cout << endl;
 	cout << endl;
 
+	cout << " jumlah pass = " << n - 1 << endl; // menampilkan jumlah dari pass
+	cout << endl;
+	cout << endl;
+}
 
+int main()
+{
+	input 
 }
